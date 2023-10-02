@@ -1,2 +1,2 @@
 # Predicting-Insurance-Premiums
-Using historic data on customer demographics
+Using Linear Regression, Random Forest Regression, and Gradient Boosting Models
